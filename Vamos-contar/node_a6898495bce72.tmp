@@ -1,0 +1,16 @@
+/*function contar(){
+  alert('foi')
+}*/
+
+
+
+var a = 1;
+var b = 10;
+var c = 2;
+
+while (a<=b) {
+  for ( a ; a <b; a+c) {
+    console.log(a)
+    
+  }
+}
